@@ -1,0 +1,1 @@
+simple installation guide  for game
