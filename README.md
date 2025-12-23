@@ -1,1 +1,1 @@
-simple installation guide  for game
+simple installation guide  for game.
